@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 75px;
+    color: #66BFBF;
+    
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 35px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.Mountain{
+    width: 572px;
+    height: 336px;
+}
+.Pro{
+    text-decoration: underline;
+}
+.BC{
+    position: absolute;
+    left: 250px;
+    bottom: 150px;
+}
+.TC{
+    position: absolute;
+    right: 300px;
+    top: -50px;
+}
+.MP{
+    margin-top: 30px;
+    width: 225px;
+    height: 225px;
+}
+p{
+    color: #40514E;
+}
+hr{
+    margin-top: 100px;
+    margin-bottom: 70px;
+    border-top: 7px dotted #bac5c3;
+    width: 5%;
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.Design{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 2%;
+    left: 350px;
+    float: left;
+}
+.Algebra{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 3px;
+    right: 300px;
+    float: right;
+}
+.btn{
+    background-color: orange;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+a{
+    margin: 0 10px;
+}
+.Red{
+    background-color: pink;
+    padding: 20px 0 20px;
+    margin-top: 20px;
+}
+.Copyright{
+    margin: 20px 0 20px 0;
+    font-family: Helvetica, sans-serif;
+    font-size: .8rem;
+}
